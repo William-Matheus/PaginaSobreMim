@@ -1,0 +1,54 @@
+.body{
+    width: 700px;
+    margin: 0 auto;
+}
+
+.Cabeçalho{
+    text-align: center;
+    background-color: brown;
+}
+
+.grid .col{
+    display: block;
+    width: 250px;
+    height: 230px;
+    background-color: dodgerblue;
+    margin: 20px;
+    float: left;
+    font-style: italic;
+    margin: 50px;
+}
+
+.Nome, .Curso{
+    text-align: center;
+}
+
+.Data, .Atualização{
+    text-align: center;
+}
+
+.T1, .TX1, .T2, .TX2, .T3, .TX3, .T4, .TX4{
+    text-align: center;
+    margin: 1px;
+}
+
+.T1{
+    background-color: yellow;
+}
+
+.T2{
+    background-color: yellow;
+}
+
+.T3{
+    background-color: yellow;
+}
+
+.T4{
+    background-color: yellow;
+}
+
+.T5{
+    background-color: yellow;
+}
+
